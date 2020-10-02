@@ -1,4 +1,4 @@
-Program 5
+Program 6
 
 Write a program to check whether a number is prime or not.
 
